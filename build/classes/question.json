@@ -1,0 +1,162 @@
+[
+    {
+        "ques": "El Nino là gì?",
+        "ansA": "Một loại dương xỉ",
+        "ansB": "Một điệu nhảy",
+        "ansC": "Một khu rừng ở Châu Phi",
+        "ansD": "Một hiện tượng thời tiết",
+        "trueAns": "Một hiện tượng thời tiết"
+    },
+    {
+        "ques": "Loài động vật nào có 3 tim, 8 chi và máu màu xanh?",
+        "ansA": "Mực",
+        "ansB": "Bạch tuộc",
+        "ansC": "Hải cẩu",
+        "ansD": "Sư tử biển",
+        "trueAns": "Bạch tuộc"
+    },
+    {
+        "ques": "What is the only position on a football team that can be \"sacked\"?",
+        "ansA": "Wide recevie",
+        "ansB": "Tight end",
+        "ansC": "Center",
+        "ansD": "Quarterback",
+        "trueAns": "Quarterback"
+    },
+    {
+        "ques": "Sông Bến Hải và sông Thạch Hãn nằm ở tỉnh nào?",
+        "ansA": "Quảng Bình",
+        "ansB": "Quảng Ninh",
+        "ansC": "Quảng Trị",
+        "ansD": "Quảng Ngãi",
+        "trueAns": "Quảng Trị"
+    },
+    {
+        "ques": "Các vua Hùng đặt quốc hiệu nước ta là gì?",
+        "ansA": "Đại Ngu",
+        "ansB": "Văn Lang",
+        "ansC": "Âu Lạc",
+        "ansD": "Đại Cồ Việt",
+        "trueAns": "Văn Lang"
+    },
+    {
+        "ques": "Ai là tổng thống đắc cử của Mỹ (2017) ?",
+        "ansA": "Bush",
+        "ansB": "Trump",
+        "ansC": "Obama",
+        "ansD": "Jack",
+        "trueAns": "Trump"
+    },
+    {
+        "ques": "Khe núi Grand Canyon nằm ở nước nào?",
+        "ansA": "Mỹ",
+        "ansB": "Anh",
+        "ansC": "Chi-lê",
+        "ansD": "Canada",
+        "trueAns": "Mỹ"
+    },
+    {
+        "ques": "Nhà khoa học nào sau đây phát minh ra thuốc nổ?",
+        "ansA": "Isaac Newton",
+        "ansB": "Albert Einstein",
+        "ansC": "Alfred Nobel",
+        "ansD": "Nikola Tesla",
+        "trueAns": "Alfred Nobel"
+    },
+    {
+        "ques": "Trong Lễ Tạ ơn của người Bắc Mỹ không thể hiếu món ăn nào?",
+        "ansA": "Thịt bê thui",
+        "ansB": "Thịt gà tây",
+        "ansC": "Thịt lợn mán",
+        "ansD": "Thịt ngan ré",
+        "trueAns": "Thịt gà tây"
+    },
+    {
+        "ques": "Nguyên liệu chính để bào chế vị thuốc ô mai trong y học là?",
+        "ansA": "Mơ",
+        "ansB": "Táo",
+        "ansC": "Trám",
+        "ansD": "Mận",
+        "trueAns": "Mơ"
+    },
+    {
+        "ques": "Trụ sở của liên đoàn Bóng đá thế giới FIFA đặt tại quốc gia nào?",
+        "ansA": "Đan Mạch",
+        "ansB": "Thụy Điển",
+        "ansC": "Thụy Sĩ",
+        "ansD": "Anh",
+        "trueAns": "Thụy Sĩ"
+    },
+    {
+        "ques": "Hàm Nghi là vị vua của triều đại nào?",
+        "ansA": "Lê",
+        "ansB": "Nguyễn",
+        "ansC": "Trần",
+        "ansD": "Lý",
+        "trueAns": "Nguyễn"
+    },
+    {
+        "ques": "Quy Nhơn là thành phố thuộc tỉnh nào?",
+        "ansA": "An Giang",
+        "ansB": "Bình Định",
+        "ansC": "Bạc Liêu",
+        "ansD": "Kiên Giang",
+        "trueAns": "Bình Định"
+    },
+    {
+        "ques": "Nước Ý không có biên giới chung với nước nào?",
+        "ansA": "Áo",
+        "ansB": "Pháp",
+        "ansC": "Đức",
+        "ansD": "Thụy Sĩ",
+        "trueAns": "Đức"
+    },
+    {
+        "ques": "Ai là tác giả của bức tranh \"Người đàn bà xa lạ\"?",
+        "ansA": "Ivan Kramskoi",
+        "ansB": "Van Gogh",
+        "ansC": "Pablo Picasso",
+        "ansD": "Issac Levitan",
+        "trueAns": "Ivan Kramskoi"
+    },
+    {
+        "ques": "Sông Seine nằm ở nước nào?",
+        "ansA": "Tây Ban Nha",
+        "ansB": "Pháp",
+        "ansC": "Brazil",
+        "ansD": "Italia",
+        "trueAns": "Pháp"
+    },
+    {
+        "ques": "Người Việt Nam đầu tiên bay vào vũ trụ là ai?",
+        "ansA": "Phạm Tuân",
+        "ansB": "Nguyễn Tuân",
+        "ansC": "Phạm Luân",
+        "ansD": "Nguyễn Luân",
+        "trueAns": "Phạm Tuân"
+    },
+    {
+        "ques": "Trong hệ mặt trời, hành tinh có kích thước lớn hơn trái đất?",
+        "ansA": "Sao Hải Vương",
+        "ansB": "Sao Kim",
+        "ansC": "Sao Hỏa",
+        "ansD": "Sao Thủy",
+        "trueAns": "Sao Hải Vương"
+    },
+    {        
+        "ques": "Nòng nọc xuất hiện trong vòng đời tuần hoàn của con vật nào?",
+        "ansA": "Muỗi",
+        "ansB": "Ếch",
+        "ansC": "Bướm",
+        "ansD": "Ong",
+        "trueAns": "Ếch"
+    },        
+    {
+        "ques": "Giải Abel là giải thưởng hàng năm dành cho lĩnh vực nào?",
+        "ansA": "Toán học",
+        "ansB": "Vật lý",
+        "ansC": "Hóa học",
+        "ansD": "Thiên văn học",
+        "trueAns": "Toán học"
+    }
+]
